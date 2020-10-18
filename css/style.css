@@ -149,32 +149,6 @@ Main Components
   width: 120%;
   height: 30%;
 }
-#letter {
-  position: relative;
-  padding: 2%;
-  top: 6%;
-  left: 10%;
-  width: 2%;
-  height: auto;
-
-}
-#1capsule {
-  position: relative;
-  padding: 2%;
-  top: 6%;
-  left: 50%;
-  width: 2%;
-  height: auto;
-}
-#10capsule {
-  position: relative;
-  padding: 2%;
-  top:6%;
-  right:10%;
-  width: 2%;
-  height: auto;
-}
-
 
 .cd-section:nth-of-type(2) > div {
   background-color: #e5e1e1;
