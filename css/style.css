@@ -142,13 +142,18 @@ Main Components
   font-size:46pt;
 }
 
-#images {
-  position: relative;
-  top:-70%;
+
+ #images img {
+  position:relative;
   left: 20%;
-  width: 120%;
-  height: 30%;
+  bottom:50%;
+  border: 2px solid #55c5e9; 
+  padding: 15px;
+  margin-right: 10px; 
+  margin-bottom: 10px; 
+  
 }
+
 
 .cd-section:nth-of-type(2) > div {
   background-color: #e5e1e1;
